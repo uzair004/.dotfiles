@@ -6,3 +6,5 @@
 [user]
 	name = Muhammad Uzair
 	email = 34101864+uzair004@users.noreply.github.com
+[core]
+	editor = code --wait

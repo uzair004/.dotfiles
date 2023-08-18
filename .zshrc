@@ -10,3 +10,4 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
